@@ -10,6 +10,7 @@ nodate = false
 images = ["/img/example.jpg"]
 imagetext = "An example text for an image you could add!"
 hidemeta = false
+doi = "https://micah.humanfactors.io/blog/unofficial-transition-information/"
 +++
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.

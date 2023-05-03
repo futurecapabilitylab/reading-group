@@ -25,7 +25,7 @@
 {{ partial "post_meta.html" . }}
 </p>
 {{- end }}
-<span class="description">{{ if isset .Params "description" }}{{ .Description }}{{ else }}{{ .Plain  | htmlUnescape | safeHTML | truncate 140 }}{{ end }}</span>
+<span class="description">{{ if isset .Params "description" }}{{ .Description }}{{ else }}{{ .Plain  | htmlUnescape | safeHTML | truncate 280 }}{{ end }}</span>
 </article>
 </div>
 </div>

@@ -21,4 +21,14 @@
 {{ end }}
 {{ end }}
 {{ end }}
+
+{{ if isset .Params "doi" }}
+<br>
+<span aria-label="DOI:"><span class="fas fa-download" aria-hidden="true"></span></span>&nbsp;
+<a href="{{ relURL .Params.doi }}" target="_blank" rel="noopener noreferrer">{{ .Params.doi | safeHTML }}</a>
+
+{{ end }}
+
+
 </span>
+
