@@ -1,7 +1,7 @@
 +++
 author = "Patrick Dunlop"
-authorlink = "https://gohugo.io"
-title = "Markdown Syntax Guide"
+authorlink = "https://staffportal.curtin.edu.au/staff/profile/view/patrick-dunlop-b58228a2/"
+title = "A Principled Approach to Solving Dealing with the Social Desirability Problem: A Use-Case for DAGs"
 date = "2023-05-12"
 publishDate=2017-10-17
 description = "We have an exciting different format for the next methods discussion group (10am 12/05, teams invite to come). Pat is going to share a research idea for our discussion. Our job will be to provide feedback and troubleshoot. The payoff for us will be learning things about DAGs along the way. As Pat's idea makes use of DAGs, the assigned reading."
